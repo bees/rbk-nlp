@@ -1,0 +1,4 @@
+venv
+*.sw*
+Session.vim
+*.pyc
