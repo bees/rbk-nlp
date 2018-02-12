@@ -23,5 +23,6 @@ TODO:
 - [ ] \(low effort) support reloading pickled model files instead of rebuilding them every run
 - [ ] test if its necessary to have a classifier at the start of the pipeline for determining if a document contains a recipe
 - [ ] add docstrings
+- [ ] there is some implicit structure in recipes: ingredients and directions are generally right next to eachother, and ingredients are generally listed before directions. Worth exploring techinques that utilize this implicit structure.
 
 
