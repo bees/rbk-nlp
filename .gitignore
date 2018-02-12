@@ -2,3 +2,5 @@ venv
 *.sw*
 Session.vim
 *.pyc
+__pycache__
+*.model
